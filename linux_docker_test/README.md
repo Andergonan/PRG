@@ -1,5 +1,5 @@
 # Docker a Ubuntu
-Pro Docker jsem využil OS Ubuntu, který jsem spustil na virtuálím počítači. Docker jsem požil prostřednictvím konzole.
+Pro Docker jsem využil OS Ubuntu, který jsem spustil na virtuálím počítači. Docker jsem použil prostřednictvím konzole.
 
 ## Sestavení image
 ![docker_1.png](https://github.com/Andergonan/PRG/blob/main/linux_docker_test/docker_1.png)
